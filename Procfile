@@ -1,1 +1,1 @@
-web: gunicorn test_djapp.wsgi --log-file -
+web: gunicorn first_djproj.wsgi --log-file -
